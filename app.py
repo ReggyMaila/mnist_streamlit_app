@@ -9,7 +9,7 @@ st.write("Upload a handwritten digit image to predict its class using a trained 
 # Load model
 @st.cache_resource
 def load_model():
-    model = tf.keras.models.load_model("digit_model.h5")
+    model = tf.keras.models.load_model("digit_model.jpg")
     return model
 
 model = load_model()
