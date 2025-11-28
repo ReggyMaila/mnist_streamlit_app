@@ -31,22 +31,14 @@ streamlit run app.py
 ## ☁️ Deploy on Streamlit Cloud
 
 1. Go to [Streamlit Cloud](https://streamlit.io/cloud)
-2. Click **New App**
-3. Connect your GitHub account
-4. Select this repository
-5. Set **Main file path** to `app.py`
-6. Deploy 🎉
 
-Then paste your link below 👇
+   https://mnistappapp-amgtdiabr2zicyzjxdpbek.streamlit.app/
 
-[![Try Online Demo](https://img.shields.io/badge/🌐_Try_Streamlit_Demo-blue?style=for-the-badge)](https://your-streamlit-app-link-here)
+
+
+[![Try Online Demo](https://img.shields.io/badge/🌐_Try_Streamlit_Demo-blue?style=for-the-badge)](https://mnistappapp-amgtdiabr2zicyzjxdpbek.streamlit.app/)
 
 ---
-
-## 🖼️ Screenshot
-
-**Figure 1:** Streamlit App Screenshot Here  
-*(Insert your deployed app screenshot below)*
 
 ---
 
